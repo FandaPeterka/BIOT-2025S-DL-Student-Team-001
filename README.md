@@ -39,7 +39,10 @@ Komunikace: MQTT / HTTPS
 IoT node (Core Module) →→MQTT→→ Gateway (Radio Dongle) →→HTTP→→ Backend (Node.js) →→HTTP→→ Frontend (Next.js) 
 
 ## 📅 Milníky projektu
+<div>
  <img src="/BIOT.png" width="400px">
+</div>
+
 **Aktuálně se nacházíme ve čtvrtém týdnu.**
 
 🎨 Design
