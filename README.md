@@ -2,8 +2,7 @@
 
 ## 📌 O projektu
 
-**SimpleGuard** je aplikace určená pro monitorování objektů pomocí IoT technologie.  
-Systém je postaven na mikrokontroléru **HARDWARIO Core Module** s akcelerometrem připevněným ke dveřím, který detekuje neoprávněné manipulace.
+**SimpleGuard** je aplikace určená pro monitorování objektů pomocí IoT technologie. Systém je postaven na mikrokontroléru **HARDWARIO Core Module** s akcelerometrem připevněným ke dveřím, který detekuje neoprávněné manipulace.
 
 ## 👥 Složení týmu
 
