@@ -39,7 +39,7 @@ Komunikace: MQTT / HTTPS
 IoT node (Core Module) →→MQTT→→ Gateway (Radio Dongle) →→HTTP→→ Backend (Node.js) →→HTTP→→ Frontend (Next.js) 
 
 ## 📅 Milníky projektu
-
+ <img src="/images/FocusBooster4.png" width="400px">
 **Aktuálně se nacházíme ve čtvrtém týdnu.**
 
 🎨 Design
